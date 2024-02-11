@@ -28,7 +28,7 @@ const AddBlock = () => {
   return (
     <div className="min-h-screen bg-green-100 flex justify-center items-center">
       <div className="max-w-md w-full p-8 bg-white rounded-lg shadow-lg">
-        <h2 className="text-2xl mb-4">Add Block</h2>
+        <h2 className="text-2xl mb-4">Add Blog</h2>
         <form onSubmit={handleSubmit}>
           <div className="mb-4">
             <label className="block mb-2">Title:</label>
