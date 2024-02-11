@@ -1,3 +1,5 @@
+#There are two branches master and main click main to view frontend code while click master to view backend code
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
